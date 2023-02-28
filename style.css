@@ -1,0 +1,13 @@
+body
+{
+    background-color:rgb(1, 148, 123);
+    font-family:Lato ;
+    color:crimson;
+}
+
+.heading
+{
+    width:80px;
+    font-size: 80px;
+    color:crimson;
+}
